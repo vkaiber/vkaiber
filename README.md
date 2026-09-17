@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm VKaiber 👋
 
-<!--
-**vkaiber/vkaiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer · Open Source · Web
 
-Here are some ideas to get you started:
+I build modern web applications, developer tools, and open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🔗 LinkHub
+A modern, customizable link-in-bio platform.
+
+[View Repository](https://github.com/vkaiber/linkhub)
+
+### ☁️ Deploy Website
+A self-hosted website deployment platform.
+
+[View Repository](https://github.com/vkaiber/deploy-website)
+
+---
+
+## 🛠️ Technologies
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Tailwind CSS
+- Vite
+- MongoDB
+- SQLite
+
+---
+
+## 📌 Currently
+
+- Building open-source web tools
+- Exploring modern web technologies
+- Improving developer workflows
+
+---
+
+## 📫 Contact
+
+If you'd like to collaborate, feel free to open an issue or discussion
+on one of my repositories.
+
+---
+
+⭐ Feel free to explore my projects.
