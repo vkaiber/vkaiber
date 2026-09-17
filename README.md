@@ -1,50 +1,46 @@
----
+# 👋 Hi, I'm VKaiber
 
-## ⚡ Currently Building
+### Developer · Open Source · Web
 
-<p align="center">
-  <img src="./assets/developer-terminal.gif" alt="Developer Terminal" width="850"/>
-</p>
+I build modern web applications, developer tools, and open-source projects with a focus on clean design, useful functionality, and reliable software.
 
-<p align="center">
-  <code>open source</code>
-  <code>web development</code>
-  <code>developer tools</code>
-  <code>infrastructure</code>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/vkaiber?label=Followers&style=flat-square" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/vkaiber?label=Stars&style=flat-square" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=vkaiber&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🧠 What I'm Exploring
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-### 🌐 Web
+### 🔗 LinkHub
 
-Modern web applications, responsive interfaces and scalable frontend architecture.
+A modern and customizable link-in-bio platform for creating personal pages, managing links, and customizing your online presence.
 
-</td>
-<td align="center" width="25%">
+**Stack**
 
-### ☁️ Cloud
+`React` `TypeScript` `Vite` `Node.js`
 
-Self-hosted infrastructure, deployment systems and developer platforms.
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-APIs, authentication, databases and reliable server-side systems.
+[View Repository →](https://github.com/vkaiber/linkhub)
 
 </td>
-<td align="center" width="25%">
 
-### 🧩 Open Source
+<td width="50%">
 
-Building useful projects and sharing them with the community.
+### ☁️ Deploy Website
+
+A self-hosted website deployment platform designed to simplify project management, deployments, and hosting workflows.
+
+**Stack**
+
+`Next.js` `TypeScript` `Node.js`
+
+[View Repository →](https://github.com/vkaiber/deploy-website)
 
 </td>
 </tr>
@@ -52,38 +48,103 @@ Building useful projects and sharing them with the community.
 
 ---
 
-## 🔥 Development Focus
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" alt="Languages"/>
+</p>
+
+### Frameworks & Runtime
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind,express" alt="Frameworks"/>
+</p>
+
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,docker,linux,cloudflare" alt="Infrastructure"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,npm" alt="Tools"/>
+</p>
+
+---
+
+## 💻 Development Environment
+
+<p align="center">
+  <img src="./assets/windows-cmd.gif" width="100%" alt="Windows CMD development session"/>
+</p>
+
+<p align="center">
+  <code>BUILD</code>
+  <code>TEST</code>
+  <code>DEPLOY</code>
+  <code>REPEAT</code>
+</p>
+
+---
+
+## 🧩 What I Work On
+
+| Area              | Focus                                                   |
+| ----------------- | ------------------------------------------------------- |
+| 🌐 Web            | Modern web applications and responsive interfaces       |
+| ⚙️ Backend        | APIs, authentication, databases and server-side systems |
+| ☁️ Infrastructure | Self-hosted platforms and deployment systems            |
+| 🧩 Open Source    | Useful tools, experiments and community projects        |
+
+---
+
+## 📌 Currently
+
+* 🔭 Building open-source web tools
+* 🌱 Exploring modern web technologies
+* ⚡ Improving performance and developer experience
+* 🧩 Experimenting with developer infrastructure
+* 🚀 Turning ideas into usable projects
+* 🤝 Open to interesting collaborations
+
+---
+
+## 🎯 Development Philosophy
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   BUILD       →       TEST       →       IMPROVE       │
-│                                                         │
-│   Ideas               Experiments          Production   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+IDEA
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+IMPROVE
+  ↓
+DEPLOY
+  ↓
+REPEAT
 ```
 
+> Build useful things. Keep improving them.
+
+---
+
+## 📫 Let's Connect
+
+If you'd like to collaborate, discuss an idea, or work on an open-source project, feel free to open a discussion or issue on one of my repositories.
+
 <p align="center">
-
-🔭 Building useful projects   •  
-⚡ Improving performance   •  
-🧩 Exploring new technologies
-
+  <a href="https://github.com/vkaiber">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## 💻 Developer Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,nextjs,nodejs,vite,tailwind,mongodb,sqlite,docker,linux,git,github,cloudflare&perline=9" alt="Developer Stack"/>
-</p>
-
----
-
-<p align="center">
-
-<b>Always building. Always learning. 🚀</b>
-
+  <b>Always building. Always learning. 🚀</b>
 </p>
