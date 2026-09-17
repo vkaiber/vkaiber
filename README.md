@@ -50,28 +50,54 @@ A self-hosted website deployment platform designed to simplify project managemen
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" alt="Languages"/>
 </p>
 
-### Frameworks & Runtime
+### ⚛️ Frontend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind,express" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux" alt="Frontend"/>
 </p>
 
-### Databases & Infrastructure
+### ⚙️ Backend & Runtime
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,docker,linux,cloudflare" alt="Infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm" alt="Backend"/>
 </p>
 
-### Tools
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,npm" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,postgres" alt="Databases"/>
+</p>
+
+### ☁️ Infrastructure & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,nginx" alt="Infrastructure"/>
+</p>
+
+### 🧰 JetBrains IDEs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm"/>
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm"/>
+  <img src="https://skillicons.dev/icons?i=phpstorm" alt="PhpStorm"/>
+  <img src="https://skillicons.dev/icons?i=rider" alt="Rider"/>
+  <img src="https://skillicons.dev/icons?i=clion" alt="CLion"/>
+  <img src="https://skillicons.dev/icons?i=goland" alt="GoLand"/>
+  <img src="https://skillicons.dev/icons?i=datagrip" alt="DataGrip"/>
+  <img src="https://skillicons.dev/icons?i=rustrover" alt="RustRover"/>
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 </p>
 
 ---
@@ -93,12 +119,41 @@ A self-hosted website deployment platform designed to simplify project managemen
 
 ## 🧩 What I Work On
 
-| Area              | Focus                                                   |
-| ----------------- | ------------------------------------------------------- |
-| 🌐 Web            | Modern web applications and responsive interfaces       |
-| ⚙️ Backend        | APIs, authentication, databases and server-side systems |
-| ☁️ Infrastructure | Self-hosted platforms and deployment systems            |
-| 🧩 Open Source    | Useful tools, experiments and community projects        |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐 Web
+
+Modern web applications, responsive interfaces and scalable frontend architecture.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+APIs, authentication, databases and reliable server-side systems.
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Infrastructure
+
+Self-hosted platforms, deployment systems and developer infrastructure.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩 Open Source
+
+Useful tools, experiments and projects built for the community.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -116,20 +171,65 @@ A self-hosted website deployment platform designed to simplify project managemen
 ## 🎯 Development Philosophy
 
 ```text
-IDEA
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-IMPROVE
-  ↓
-DEPLOY
-  ↓
-REPEAT
+                    ┌──────────┐
+                    │   IDEA   │
+                    └────┬─────┘
+                         │
+                         ▼
+                    ┌──────────┐
+                    │  BUILD   │
+                    └────┬─────┘
+                         │
+                         ▼
+                    ┌──────────┐
+                    │   TEST   │
+                    └────┬─────┘
+                         │
+                         ▼
+                    ┌──────────┐
+                    │ IMPROVE  │
+                    └────┬─────┘
+                         │
+                         ▼
+                    ┌──────────┐
+                    │  DEPLOY  │
+                    └────┬─────┘
+                         │
+                         ▼
+                    ┌──────────┐
+                    │  REPEAT  │
+                    └──────────┘
 ```
 
 > Build useful things. Keep improving them.
+
+---
+
+## 🔥 Areas of Interest
+
+<p align="center">
+  <code>Open Source</code>
+  <code>Web Development</code>
+  <code>Developer Tools</code>
+  <code>Cloud</code>
+  <code>Infrastructure</code>
+  <code>UI/UX</code>
+  <code>Automation</code>
+</p>
+
+---
+
+## 📦 Open Source
+
+I enjoy building projects that are practical, customizable and easy for others to explore.
+
+Feel free to:
+
+* ⭐ Star projects you find useful
+* 🍴 Fork and experiment
+* 🐛 Report issues
+* 💡 Suggest improvements
+* 🤝 Contribute
 
 ---
 
@@ -147,4 +247,8 @@ If you'd like to collaborate, discuss an idea, or work on an open-source project
 
 <p align="center">
   <b>Always building. Always learning. 🚀</b>
+</p>
+
+<p align="center">
+  <sub>© 2026 VKaiber · Open Source</sub>
 </p>
